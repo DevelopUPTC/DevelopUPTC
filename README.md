@@ -1,8 +1,8 @@
 # Hello Wordl!
 
-Repositorio de proyectos académicos para los cursos a mi cargo en la [UPTC](http://www.uptc.edu.co)
+Repositorio de proyectos académicos para los cursos a cargo en la [![UPTC](https://img.shields.io/badge/UPTC-Sogamoso-orange.svg)](http://www.uptc.edu.co)
 
-- Programaciones
+- Area de Programación
 - Sistemas Operativos
 - Desarrollo Web
 
